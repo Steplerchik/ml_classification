@@ -47,7 +47,7 @@ ipython==7.13.0
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.16.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 joint-state-publisher==1.12.15
 jsk-recognition-utils==1.2.9
 jsk-rviz-plugins==2.1.6
