@@ -195,7 +195,7 @@ traitlets==4.3.3
 turicreate==6.1
 -e git+https://github.com/Kagandi/turicreate-cross-validation.git@dabf3b7d9d35de767945cc0f3dc6448c2c9b3dc1#egg=turicreate_cross_validation
 urdfdom-py==0.3.3
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==1.0.1
